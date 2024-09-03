@@ -1,0 +1,8 @@
+Source : https://www.youtube.com/watch?v=k1QXd-8VbPY&list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf&index=3
+Dalam suatu repo jika kita sudah melakukan beberapa kali commit maka secara visual akan membentu garis lurus yang disebut cabang utama / master branch
+Dari master branch bisa dibuat snapshot / cabang yang mana memiliki sifat independent, jalan dengan commitnya dia sendiri. 
+Fungsi branching :
+  1. Membuat GIT Branch
+  2. Membuat snapshot tanpa mengganggu jalur utama
+  3. Membuat fitur baru pada repo tanpa merubah master branch. (Experimental)
+  4. Bekerja dalam tim
