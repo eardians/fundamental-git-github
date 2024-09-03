@@ -6,3 +6,6 @@ Fungsi branching :
   2. Membuat snapshot tanpa mengganggu jalur utama
   3. Membuat fitur baru pada repo tanpa merubah master branch. (Experimental)
   4. Bekerja dalam tim
+Cara membuat branch :
+  1. Setelah beres melakukan perubahan pada repo
+  2. klik commit changes - pilih yg create a new branch
