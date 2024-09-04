@@ -7,5 +7,11 @@ Fungsi branching :
   3. Membuat fitur baru pada repo tanpa merubah master branch. (Experimental)
   4. Bekerja dalam tim
 Cara membuat branch :
-  1. Setelah beres melakukan perubahan pada repo
-  2. klik commit changes - pilih yg create a new branch
+  1. Setelah beres melakukan perubahan pada file di repo
+  2. klik commit changes - pilih yg create a new branch, bukan directly ke master branch
+  3. cara lainnya adalah dengan memilih terlebih dahulu repo yang akna dibuat cabang
+  4. cari switch branch / tag. nah disitu langsung tuliskan nama branch yg akan dibuat, makan akan muncul suggestion create branch
+  5. setelah branch terbentuk akan muncul branch dengan file yg mirip. lalu silahkan ditambahkan file baru untuk experience
+  6. Setelah file sudah diisi sesuai program yang diinginkan lakukan commit
+  7. saat melakukan commit pada radio button pilih yg directly to the "nama branchnya yg sudah kita buat tadi"
+  8. lalu akan muncul pilihan compare & pull request (akan dibahas nanti)
