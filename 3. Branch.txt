@@ -14,4 +14,4 @@ Cara membuat branch :
   5. setelah branch terbentuk akan muncul branch dengan file yg mirip. lalu silahkan ditambahkan file baru untuk experience
   6. Setelah file sudah diisi sesuai program yang diinginkan lakukan commit
   7. saat melakukan commit pada radio button pilih yg directly to the "nama branchnya yg sudah kita buat tadi"
-  8. lalu akan muncul pilihan compare & pull request (akan dibahas nanti)
+  8. lalu pada branch yg sudah dibuat tadi akan muncul drop down "contribute" lalu kalau di klik akan muncul 2 opsi compare dan open pull request
