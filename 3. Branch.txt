@@ -23,3 +23,5 @@ Cara Merging :
   5. Ketika sudah oke dengan perubahan, klik merge pull request
   6. Selanjutnya klik confirm merge
   7. Proses merging berhasil
+Cara mengatasi merge conflict :
+  1. 
