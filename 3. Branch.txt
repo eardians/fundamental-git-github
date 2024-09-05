@@ -15,3 +15,11 @@ Cara membuat branch :
   6. Setelah file sudah diisi sesuai program yang diinginkan lakukan commit
   7. saat melakukan commit pada radio button pilih yg directly to the "nama branchnya yg sudah kita buat tadi"
   8. lalu pada branch yg sudah dibuat tadi akan muncul drop down "contribute" lalu kalau di klik akan muncul 2 opsi compare dan open pull request
+Cara Merging :
+  1. Pada dropdown contribute pilih open pull request
+  2. Analogi kenapa disebut pull request, karena branch harus meminta izin untuk memasukkan perubahan kedalam master branch
+  3. Lakukan pull request dengan klik create pull request
+  4. Akan digiring ke tab pull request
+  5. Ketika sudah oke dengan perubahan, klik merge pull request
+  6. Selanjutnya klik confirm merge
+  7. Proses merging berhasil
