@@ -24,4 +24,30 @@ Cara Merging :
   6. Selanjutnya klik confirm merge
   7. Proses merging berhasil
 Cara mengatasi merge conflict :
-  1. 
+  1. Disimulasikanada 2 branch dari master
+  2. I pemilik master branch pingin ngebagi ke 2 orang berbeda dan suruh ngedit sesuai insight mereka di file yg sama
+  3. Lakukan merge dengan cara 1 per 1
+  4. Klik "Compare and pull request" untuk file 1
+  5. cek apakah "able to merge" ? Jika iya berarti lanjut "Create Pull Request"
+  6. Akan otomatis di cek disistem apakah ada conflict atau tidak saat proses merge. Jika tidak lanjut klik "merge pull req"
+  7. Ganti ke file ke 2. KLik "Compare and pull request"
+  8. Akan muncul tulisan "Can't Automatically merge". Pertanda ada conflict.
+  9. Tetap lakukan "create pull request"
+  10. Akan muncul notifikasi "the problem must be resolve", menyelesaikan conflict secara manual
+  11. Klik "resolve conflict", akan diarahkan ke kode editor
+  12. ada ada tanda ">", "<", "=". 
+  13. Diatas Tanda "<< nama branch yg akan dimergerkan ke master branch"
+  14. Dibawahnya ada tanda ">> nama master branch"
+  15. Ditengah ada tanda "==", sebagai pemisah yg pembedanya
+  16. Pilih yg atas atau yg bawah 
+  17. Jika sudah, pilih "mark as resolved"
+  18. Klik "commite merge", akan dicek otomatis lagi apakah masih ada problem
+  19. Ketika sudah aman tidak ada problem akan muncul "merge pull req", Klik tombol tersebut
+  20. Cek pada insight - network. semua akan ter merge ke master branch
+
+Recap, istilah :
+Branch = jalur 'development' bebas dari sebuah commit
+Checkout = berpindah ke branch / commit lain
+Pull Request = meminta pemilik repo untuk 'mengambil' perubahan yang telah dilakukan
+Merge = menggabungkan 2 branch
+Merge conflict = baris yg sama diubah oleh 2 branch yg berbeda
